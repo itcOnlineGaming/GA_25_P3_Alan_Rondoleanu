@@ -1,0 +1,12 @@
+{
+  "name": "ie.alan.playermovement",
+  "version": "1.0.0",
+  "displayName": "Player Movement Component",
+  "description": "A reusable 2D movement component with acceleration, deceleration, and pull force mechanics.",
+  "unity": "2022.3",
+  "author": {
+    "name": "Alan Rondioleanu",
+    "email": "archillios@gmail.com",
+    "url": "https://github.com/itcOnlineGaming/GA_25_P3_Alan_Rondoleanu"
+  }
+}
