@@ -56,7 +56,6 @@ Call SetInput(Vector2 direction) to move the AI towards a target.
 
 # Osmosis 
 [![Osmosis](https://img.youtube.com/vi/qGuieN5-6dI/0.jpg)](https://www.youtube.com/watch?v=qGuieN5-6dI)
-https://www.youtube.com/watch?v=qGuieN5-6dI
 
 speed = 3
 maxSpeed = 5
@@ -66,7 +65,7 @@ pullDampening = 10
 useAcceleration = true
 
 # Vampire Survivors (Static Movement) 
-https://www.youtube.com/watch?v=6HXNxWbRgsg
+[![Vampire Survivors](https://img.youtube.com/vi/6HXNxWbRgsg/0.jpg)](https://www.youtube.com/watch?v=6HXNxWbRgsg)
 
 speed = 5
 maxSpeed = 5
@@ -74,7 +73,7 @@ playerMovement.pullDampening = 2
 useAcceleration = false
 
 # Heavy Boulder
-https://media.istockphoto.com/id/909048912/photo/sisyphus-metaphore-young-businessman-pushing-heavy-stone-boulder-up-on-hill.jpg?s=2048x2048&w=is&k=20&c=m2YZ6E4edS7vGeSCiCg3qN9OxOR0J36AogKHHu18zxg=
+[!https://media.istockphoto.com/id/909048912/photo/sisyphus-metaphore-young-businessman-pushing-heavy-stone-boulder-up-on-hill.jpg?s=2048x2048&w=is&k=20&c=m2YZ6E4edS7vGeSCiCg3qN9OxOR0J36AogKHHu18zxg=]
 
 speed = 3;
 maxSpeed = 10;
