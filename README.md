@@ -54,19 +54,19 @@ Call SetInput(Vector2 direction) to move the AI towards a target.
 
 ![1](https://github.com/user-attachments/assets/e82edf53-b21f-428f-8578-db304fb4c424)
 
-Is Active: Turn on or off to stop running the script.
+- Is Active: Turn on or off to stop running the script.
 
-Use Acceleration: Turn off if you would like static movement without acceleration.
+- Use Acceleration: Turn off if you would like static movement without acceleration.
 
-Speed: The speed at which the player starts upon moving.
+- Speed: The speed at which the player starts upon moving.
 
-Max Speed: The max possible speed the player can accelerate to.
+- Max Speed: The max possible speed the player can accelerate to.
 
-Acceleration: The rate at which the player increases in speed when moving.
+- Acceleration: The rate at which the player increases in speed when moving.
 
-Deceleration: The rate at which the player reduces in speed when stopping.
+- Deceleration: The rate at which the player reduces in speed when stopping.
 
-Pull Dampening: The strength of the pull effect when using the full function.
+- Pull Dampening: The strength of the pull effect when using the full function.
 
 ## Presets
 
