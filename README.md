@@ -55,6 +55,7 @@ Call SetInput(Vector2 direction) to move the AI towards a target.
 ## Presets
 
 # Osmosis 
+[![Osmosis](https://img.youtube.com/vi/qGuieN5-6dI/0.jpg)](https://www.youtube.com/watch?v=qGuieN5-6dI)
 https://www.youtube.com/watch?v=qGuieN5-6dI
 
 speed = 3
